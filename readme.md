@@ -6,6 +6,6 @@
 
 - Occasianal writer
 
-> My personal blog: https://arinmelikyan.medium.com/
+> My personal blog: [Arin Melikyan's blog](https://arinmelikyan.medium.com/)
 
-> My linkedIn page: https://www.linkedin.com/feed/
+> My linkedIn page: [LinkedIn](https://www.linkedin.com/in/arinmelikyan/)
