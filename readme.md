@@ -4,7 +4,7 @@
 
 - Hobbyist Photographer
 
-- Occasianal Writer
+- Occasional Writer
 
 > My personal blog: [Arin Melikyan's blog](https://arinmelikyan.medium.com/)
 
