@@ -2,9 +2,9 @@
 
 - Software Engineer
 
-- Hobbyist photographer
+- Hobbyist Photographer
 
-- Occasianal writer
+- Occasianal Writer
 
 > My personal blog: [Arin Melikyan's blog](https://arinmelikyan.medium.com/)
 
