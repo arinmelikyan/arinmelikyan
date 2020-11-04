@@ -1,9 +1,11 @@
-## Software Engineer
+## Hey there!
 
-## Hobbyist photographer
+> Software Engineer
 
-## Occasianal writer
+> Hobbyist photographer
 
-> My personal blog: https://arinmelikyan.medium.com/
+> Occasianal writer
 
-> My linkedIn page: https://www.linkedin.com/feed/
+My personal blog: https://arinmelikyan.medium.com/
+
+My linkedIn page: https://www.linkedin.com/feed/
